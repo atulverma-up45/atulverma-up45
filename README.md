@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Atul Verma</h1>
-<h3 align="center">Code from the Heart, with MERN Stack</h3>
+<h3 align="center">A passionate full stack development learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulverma-up45&label=Profile%20views&color=0e75b6&style=flat" alt="atulverma-up45" /> </p>
 
-- 🔭 I’m currently working on [Instagram Clone](https://github.com/atulverma-up45/instagram)
+- 🔭 I’m currently working on [Restaurant Web App](https://vermarestaurant.vercel.app/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/atulverma-up45/portfolio](https://github.com/atulverma-up45/portfolio)
-
-- 📫 How to reach me **atulverma04680@gmail.com**
+- 📫 How to reach me **dev.atulverma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
